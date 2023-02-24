@@ -1,10 +1,11 @@
 # Finops Usecase 1 
 
-Note: Automation does not make any changes to the resources are cost.
+Note: Automation does not make any changes to the AWS resources nor cost.
 
 
 ## Steps required to run the python code
 * Install python3
+* git clone 
 * Install the below library required to run the python code
 ```
 pip3 install boto3
